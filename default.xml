@@ -3,4 +3,5 @@
   <remote name="foo" fetch=".." />
   <default revision="master" remote="foo" />
   <project path="web" name="HuangShaoyan/huangshaoyan.me" />
+  <project path="foo" name="HuangShaoyan/manifest" />
 </manifest>
