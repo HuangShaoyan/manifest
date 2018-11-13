@@ -3,5 +3,4 @@
   <remote name="foo" fetch=".." />
   <default revision="master" remote="foo" />
   <project path="we1b" name="HuangShaoyan/huangshaoyan.me" />
-  <project path="foo" name="HuangShaoyan/manifest" />
 </manifest>
