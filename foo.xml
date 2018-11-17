@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="foo" fetch=".." />
+  <default revision="master" remote="foo" />
+  <project path="web3" name="HuangShaoyan/huangshaoyan.me" />
+  <project path="foo" name="HuangShaoyan/manifest" revision="master"/>
+</manifest>
